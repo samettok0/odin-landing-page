@@ -10,7 +10,3 @@ This project recreates a design using HTML and CSS, featuring a hero section, co
 
 - HTML5
 - CSS3
-
-## View Live
-
-Deployed on GitHub Pages: [https://yourusername.github.io/odin-landing-page/](https://yourusername.github.io/odin-landing-page/)
